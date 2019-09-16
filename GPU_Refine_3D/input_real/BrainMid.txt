@@ -1,0 +1,25 @@
+Title	:	Frankenstein's Monster with Removable Brain
+Author	:	yeg3d
+License	:	Creative Commons - Attribution
+Date	:	2015-10-20T00:39:46
+Category	:	models
+Subcategory	:	creatures
+Tags	:	bustFrankensteinFrankensteinshalloweenhalloween_decorationmonsterscary
+Thing ID	:	1081535 (Thingiverse)
+File ID	:	1717685 (Download)
+#Vertices	:	396451
+#Faces	:	792898
+#Components	:	1
+Euler	:	2
+Genus	:	0
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	17.1737

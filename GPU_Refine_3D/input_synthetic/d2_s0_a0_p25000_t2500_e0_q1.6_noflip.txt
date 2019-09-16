@@ -1,0 +1,9 @@
+Number of points = 1115013
+Number of subfaces = 1171780
+Number of segments = 151050
+Number of tetrahedra = 6998970
+Number of bad tetrahedra = 1279
+Total time = 248824.078125
+  Splitting segments time = 324.000000
+  Splitting subfaces time = 8631.000000
+  Splitting bad tets time = 237162.000000

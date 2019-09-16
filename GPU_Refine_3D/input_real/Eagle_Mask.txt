@@ -1,0 +1,24 @@
+Title	:	Eagle Mask
+Author	:	ThreeForm
+License	:	Attribution - Non-Commercial - Share Alike
+Date	:	2012-10-15T21:55:56
+Category	:	fashion
+Subcategory	:	costume
+Tags	:	accessorycostumeeaglefashionhalloweenmaskThreeFormwearable
+Thing ID	:	32480 (Thingiverse)
+File ID	:	94059 (Download)
+#Vertices	:	115348
+#Faces	:	230744
+#Components	:	4
+Euler	:	-24
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	100310

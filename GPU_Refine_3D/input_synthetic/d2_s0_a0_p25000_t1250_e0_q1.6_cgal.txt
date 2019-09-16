@@ -1,0 +1,9 @@
+Number of points = 658570
+Number of subfaces = 8380956
+Number of segments = 4851107
+Number of tetrahedra = 4188418
+Number of bad tetrahedra = 852301
+Total time = 160148.000000
+  edge_size = 5.000000
+  facet_distance = 1.000000
+  cell_radius_edge_ratio = 1.600000

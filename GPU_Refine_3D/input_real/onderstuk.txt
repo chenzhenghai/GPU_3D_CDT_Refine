@@ -1,0 +1,24 @@
+Title	:	Thunderbird 3
+Author	:	VanAllesWat
+License	:	Creative Commons - Attribution - Non-Commercial
+Date	:	2013-07-25T15:17:28
+Category	:	models
+Subcategory	:	props
+Tags	:	proprocketseriesspacethunderbirdThunderbirdstv-show
+Thing ID	:	123231 (Thingiverse)
+File ID	:	252653 (Download)
+#Vertices	:	239522
+#Faces	:	479040
+#Components	:	1
+Euler	:	2
+Closed	:	True
+Oriented	:	False
+Self-intersecting	:	False
+Vertex manifold	:	False
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	False
+Solid	:	False
+Total area	:	80.2318

@@ -1,0 +1,25 @@
+Title	:	Bold Machines: Mr. Walthersnap
+Author	:	boldmachines
+License	:	Attribution - Non-Commercial - No Derivatives
+Date	:	2014-09-29T14:17:29
+Category	:	models
+Subcategory	:	people
+Tags	:	boldmachinesbold_machinesfilmMargomovieSupervillainvillainwalthersnap
+Thing ID	:	457242 (Thingiverse)
+File ID	:	763718 (Download)
+#Vertices	:	109388
+#Faces	:	218776
+#Components	:	1
+Euler	:	0
+Genus	:	1
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	31034.3

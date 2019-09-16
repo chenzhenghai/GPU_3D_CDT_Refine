@@ -1,0 +1,25 @@
+Title	:	HHMI's BioInteractive.org 2013 Holiday Lectures on Science Models
+Author	:	BioInteractive
+License	:	Creative Commons - Attribution - Share Alike
+Date	:	2014-02-14T19:11:17
+Category	:	learning
+Subcategory	:	biology
+Tags	:	curriculum
+Thing ID	:	222545 (Thingiverse)
+File ID	:	461112 (Download)
+#Vertices	:	402686
+#Faces	:	805376
+#Components	:	1
+Euler	:	-2
+Genus	:	2
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	51226.7

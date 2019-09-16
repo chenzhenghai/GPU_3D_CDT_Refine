@@ -1,0 +1,25 @@
+Title	:	Shy-light
+Author	:	virtox
+License	:	Attribution - Non-Commercial - No Derivatives
+Date	:	2012-09-06T15:41:11
+Category	:	household
+Subcategory	:	decor
+Tags	:	adamandocree_ledenoeveevolutionarylamplight_shadeno_supportrevolutionaryshy-lightvirtox
+Thing ID	:	29876 (Thingiverse)
+File ID	:	87688 (Download)
+#Vertices	:	128216
+#Faces	:	256428
+#Components	:	1
+Euler	:	2
+Genus	:	0
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	71600.7

@@ -1,0 +1,17 @@
+Number of points = 3368408
+Number of subfaces = 4029557
+Number of segments = 386979
+Number of tetrahedra = 21235166
+Number of bad tetrahedra = 3261
+Total time = 135393.976563
+CPU time = 51816.898438
+  Splitting segments time = 1008.000000
+  Splitting subfaces time = 43140.000000
+  Splitting bad tets time = 0.000000
+GPU time = 83577.078125
+  Reconstruction time = 10195.333008
+  Initialization time = 704.083191
+  Splitting segments time = 72411.632813
+  Splitting subfaces time = 0.000000
+  Splitting bad tets time = 0.000000
+  Output final mesh  time = 219.756012

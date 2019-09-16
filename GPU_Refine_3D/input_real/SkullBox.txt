@@ -1,0 +1,24 @@
+Title	:	Boneheads: Skull Box w/ Brain - via 3DKitbash.com
+Author	:	3DKitbash
+License	:	Attribution - Non-Commercial - No Derivatives
+Date	:	2014-09-26T19:10:36
+Category	:	toys-and-games
+Subcategory	:	
+Tags	:	3DK3DKitbashboxbrainBrain_Geardeadexclusiveghosthalloweenhorrorhumanhuman_skullnosupportpromotionpromotionalscaryskeletonskullSpooky
+Thing ID	:	478336 (Thingiverse)
+File ID	:	793565 (Download)
+#Vertices	:	160481
+#Faces	:	320978
+#Components	:	6
+Euler	:	-8
+Closed	:	True
+Oriented	:	True
+Self-intersecting	:	False
+Vertex manifold	:	True
+Edge manifold	:	True
+Combinatorially degenerate	:	False
+Geometrically degenerate	:	False
+Duplicated faces	:	False
+PWN	:	True
+Solid	:	True
+Total area	:	26810.5
