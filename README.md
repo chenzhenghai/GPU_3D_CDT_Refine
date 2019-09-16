@@ -13,9 +13,9 @@ Paper: Computing Three-dimensional constrained Delaunay Refinement Using the GPU
 --------------------------------------------------------------
 GPU Refinement Routine (located in MeshRefine.h and MeshRefine.cpp):  
 void <b>refineInputFileOnGPU</b>(  
-&nbsp;&nbsp;&nbsp;&nbsp; char* infile,
-&nbsp;&nbsp;&nbsp;&nbsp; int format, 
-&nbsp;&nbsp;&nbsp;&nbsp; MESHBH* input_behavior,
+&nbsp;&nbsp;&nbsp;&nbsp; char* infile,  
+&nbsp;&nbsp;&nbsp;&nbsp; int format,  
+&nbsp;&nbsp;&nbsp;&nbsp; MESHBH* input_behavior,  
 &nbsp;&nbsp;&nbsp;&nbsp; char* outmesh,  
 &nbsp;&nbsp;&nbsp;&nbsp; char* outdata)
 
