@@ -3,7 +3,7 @@ A 3D CDT Refinement Software on GPU
 
 Project Website: https://www.comp.nus.edu.sg/~tants/gqm3d.html
 
-Paper: Computing Three-dimensional constrained Delaunay Refinement Using the GPU. Z. Chen and T.S. Tan. The 28th International Conference on Parallel Architectures and Compilation Techniques, 21-25 September, 2019, Seattle, WA, USA. (<a href="#">PDF</a>)
+Paper: Computing Three-dimensional constrained Delaunay Refinement Using the GPU. Z. Chen and T.S. Tan. The 28th International Conference on Parallel Architectures and Compilation Techniques, 21-25 September, 2019, Seattle, WA, USA. (<a href="https://www.comp.nus.edu.sg/~tants/gqm3d_files/gqm3d.pdf">PDF</a>)
 
 * A NVIDIA GPU is required since this project is implemented using CUDA.
 * The development environment: Visual Studio 2017 and CUDA 9.0. (Need to include both CUDA SDK and Sample. The later is for timing routines. Changes for paths might be needed for Visual Studio project setting. Please use x64 and Release mode.)
